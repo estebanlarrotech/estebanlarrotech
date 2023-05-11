@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @estebanlarrotech
-- 👀 I’m interested in SQL and technical support
-- 🌱 I’m currently learning HTML,CSS,JS and more.
-- 💞️ I’m looking to collaborate on any project that allow me to grow in this path
+- 🏃‍♂️ I strive to get productive habits
+- 👶 I’m currently learning HTML,CSS,JS and more / https://www.codeyourway.eu/ 
 - 📫 How to reach me: esteban.larrotech@gmail.com
 
 <!---
