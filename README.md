@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @estebanlarrotech
-- 🏃‍♂️ Sharing excercises so can can practice as well
+- 🏃‍♂️ Sharing excercises so others can practice as well
 - 👶 I’m currently learning HTML,CSS,JS and more / https://www.codeyourway.eu/ 
 - 📫 How to reach me: esteban.larrotech@gmail.com
 
